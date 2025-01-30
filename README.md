@@ -10,8 +10,8 @@ Android Emulator or Physical Device
 
 # Getting Started
 Clone the Repository
-
-cd YOUR_REPOSITORY
+https://github.com/afsar-bhai/task_ahm.git
+cd task_ahm
 
 #  Install Dependencies
 flutter pub get
