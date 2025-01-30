@@ -1,12 +1,25 @@
 # ahamdabad_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+# Flutter Project Setup & Run Instructions
+Ensure you have the following installed before running the project:
 
 A few resources to get you started if this is your first Flutter project:
+Flutter SDK 3.7.7
+Android Studio or VS Code (for development)
+Android Emulator or Physical Device
+
+# Getting Started
+Clone the Repository
+
+cd YOUR_REPOSITORY
+
+#  Install Dependencies
+flutter pub get
+flutter run
+
+# Build APK (For Distribution)
+flutter build apk --release
+
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
